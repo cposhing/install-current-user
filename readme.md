@@ -6,7 +6,7 @@
 ### Tree:
 ```
  jetbra:.
-│  ja-netfilter.jar
+│ja-netfilter.jar
 │
 ├─config-jetbrains
 │
